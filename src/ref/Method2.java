@@ -26,4 +26,5 @@ public class Method2 {
   static void printStudent(Student student) {
     System.out.printf("이름: %s 나이: %d 성적: %s\n", student.name, student.age, student.grade);
   }
+
 }
