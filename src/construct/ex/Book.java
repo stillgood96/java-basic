@@ -7,6 +7,8 @@ public class Book {
   int page;
 
   public Book() {
+    name = "";
+    author = "";
   }
 
   public Book(String name, String author) {
